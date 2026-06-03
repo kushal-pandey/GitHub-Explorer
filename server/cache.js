@@ -1,3 +1,3 @@
 const NodeCache = require('node-cache');
-const cache = new NodeCache({ stdTTL: 60 });
+const cache = new NodeCache({ stdTTL: 3600 }); 
 module.exports = cache;
