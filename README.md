@@ -10,8 +10,8 @@ A full-stack web application that lets you search any GitHub username and explor
 
 | Service | URL |
 |---------|-----|
-| Frontend (Vercel) | `https://git-hub-explorer-ten-teal.vercel.app/` ← replace after deploy |
-| Backend (Railway) | `https://github-repo-explorer-api.up.railway.app` ← replace after deploy |
+| Frontend (Vercel) | `https://git-hub-explorer-ten-teal.vercel.app/` 
+| Backend (Railway) | `https://github-repo-explorer-api.up.railway.app`
 
 ---
 
